@@ -1,0 +1,17 @@
+{
+  "name": "all-format-converter-bot",
+  "version": "1.0.0",
+  "description": "Telegram All Format Converter Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-telegram-bot-api": "^0.63.0",
+    "pdfkit": "^0.14.0",
+    "sharp": "^0.33.4"
+  }
+}
